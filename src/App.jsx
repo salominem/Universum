@@ -54,7 +54,7 @@ export default function App() {
   };
 
   const telefonoWhatsapp = '5493815649551';
-  const mensajePredeterminado = encodeURIComponent('Hola, me interesa una página web quisiera mas información!');
+  const mensajePredeterminado = encodeURIComponent('Hola Universum, me interesa una página web quisiera mas información!');
   const urlWhatsapp = `https://wa.me/${telefonoWhatsapp}?text=${mensajePredeterminado}`;
 
   // Variantes de animación reutilizables
